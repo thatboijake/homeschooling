@@ -5,4 +5,3 @@
 - homeschooling usually happens when a parent wants to control their kids education 
 - “the number of homeschooled children in the United States is somewhere between 900,000 and 2,000,000."
 	- [source](https://www.homeschoolfacts.com/faqs.html)
--
