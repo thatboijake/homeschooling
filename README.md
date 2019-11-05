@@ -1,5 +1,4 @@
 # notes
----
 - homeschooling gives you more freedom.
 - your **curriculum** is based off you and no one else
 > [curriculum](https://en.wiktionary.org/wiki/curriculum) means what you learn
